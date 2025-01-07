@@ -1,5 +1,5 @@
 # LinkTree
-LinkTree clone project on Ruby on Rails.
+LinkTree LOOKALIKE project on Ruby on Rails By Saahi.
 
 
 ### Dependencies:
@@ -44,6 +44,3 @@ rails s
 * See specific tree.
 * Edit tree.
 * Delete tree.
-
-### Watch Complete tutorial at:
-https://www.youtube.com/playlist?list=PLFu6kWRx3ksMEMptc9poIo5TNT_T0ujwE
